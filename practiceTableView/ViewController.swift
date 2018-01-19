@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController,UITableViewDelegate,UITableViewDataSource {
     
     @IBOutlet weak var myTableView: UITableView!
-    // [“C言語”,”Swift”,”PHP”,”Javascript”,”Ruby”,”Java”,”Python”]（
+    
     var proArray = ["C言語","Swift","PHP","Javascript","Ruby","Java","Python" ]
     
     
